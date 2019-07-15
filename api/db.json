@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "title": "JavaScript Stream",
+      "description": "This is a test stream",
+      "userId": "114107740840444265479",
+      "id": 1
+    },
+    {
+      "title": "React Stream",
+      "description": "Testing react stream",
+      "userId": "114107740840444265479",
+      "id": 2
+    },
+    {
+      "title": "Node.js Stream",
+      "description": "Another stream.",
+      "userId": "114107740840444265479",
+      "id": 3
+    },
+    {
+      "title": "Python Stream",
+      "description": "My Python Stream",
+      "userId": "114107740840444265479",
+      "id": 4
+    },
+    {
+      "title": "Django Stream",
+      "description": "A cool Django Stream",
+      "userId": "114107740840444265479",
+      "id": 5
+    }
+  ]
+}
